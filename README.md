@@ -7,11 +7,11 @@ FKC-FKC-ALGO-TEST-123
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BartuKaptanoglu&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" width="110" height="110" viewBox="0 0 110 110" fill="none">
+<html> <svg xmlns="http://www.w3.org/2000/svg" x="0" y="0" width="110" height="110" viewBox="0 0 110 110" fill="none">
           <rect x="0.5" y="0.5" rx="4.5" width="109" height="109" stroke="#e1e4e8" fill="#FFF" stroke-opacity="1" fill-opacity="1"/>
           
   
- <html>  <defs>
+ <defs>
     <linearGradient id="SECRET" gradientTransform="rotate(45)">
     
     <stop offset="0%" stop-color="red"/>
@@ -60,7 +60,8 @@ FKC-FKC-ALGO-TEST-123
     <rect x="15" y="101" rx="1" width="80" height="3.2" opacity="0.3" fill="#0366d6"/>
     <rect id="MultiLanguage-rank-progress" x="15" y="101" rx="1" height="3.2" fill="#0366d6"/>
   
-        </svg></html> 
+        </svg>
+        </html> 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BartuKaptanoglu&icon=0&color=0)](https://visitcount.itsvg.in)
