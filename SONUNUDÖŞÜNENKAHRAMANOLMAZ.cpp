@@ -1,6 +1,13 @@
 #include <iostream>
 using namespace std;
 
+void swap(int* a1, int* a2){
+	int a3=*a2;
+	*a1=*a2;
+	*a2=a3;
+	delete a1;
+	delete a2;
+}
 int partition(int arr[],int low,int high)
 {
 
