@@ -52,6 +52,7 @@ int main() {
 	{
 		cout << arr[i] << " ";
 	}
+	cout << "\n";
 
 	return 0;
 }
